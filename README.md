@@ -1,7 +1,7 @@
 # GalaxyCircus: Rapid Anomaly Galaxy Identification Public Science Platform
 
 [GalaxyCircus](https://nadc.china-vo.org/galaxycircus/) is a public science project dedicated to the rapid identification of anomalous galaxies. It ingeniously combines machine learning technology with the collaborative effect of public science to address the challenges of processing large-scale astronomical data. 
-
+![示例图片](./figure/1739953304262.jpg)
 ## Repository Overview
 
 This repository is used to store anomalous celestial object candidates discovered by the GalaxyCircus platform. These candidates are jointly selected by citizen scientists and machine learning algorithms, representing galaxies that may have unique features or unresolved mysteries. Each entry includes detailed observational information and preliminary analysis results for further study and discussion.
