@@ -10,7 +10,9 @@ This repository is used to store anomalous celestial object candidates discovere
 
 ### Update Progress
 
-- **2025.2.18**: Uploaded all anomalous celestial object candidates annotated via the web up to January 1, 2025. 
+- **2025.2.18**: Uploaded all anomalous celestial object candidates annotated via the web up to January 1, 2025.
+  
+![示例图片](./figure/20250101.jpg)
 
 ## How to Participate
 
